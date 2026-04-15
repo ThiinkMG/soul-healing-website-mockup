@@ -6,7 +6,7 @@ A cinematic website mockup for Soul Healing, a therapy and training practice spe
 
 ## Live Preview
 
-This mockup is hosted via GitHub Pages. Visit the live site at:`https://<username>.github.io/<repo-name>/`
+This mockup is hosted via GitHub Pages. Visit the live site at:`[https://<username>.github.io/<repo-name>/](https://thiinkmg.github.io/soul-healing-website-mockup/)`
 
 ## Contents
 
